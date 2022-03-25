@@ -188,7 +188,7 @@ The 14C story
 
 ([PDF 1]({{< baseurl >}}/resources/lec09_1_slide))
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 - 1.5 MB]({{< baseurl >}}/resources/lec09_2_slide))
+([PDF 2 - 1.5 MB]({{< baseurl >}}/resources/lec09_2_slide))
 
 ([PDF 3 - 2.0 MB]({{< baseurl >}}/resources/lec09a_slide))
 
