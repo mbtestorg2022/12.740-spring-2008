@@ -5,6 +5,7 @@ description: Problem set on the salinity of the glacial ocean, the change in mea
   to your assumption about the isotopic composition of glacial ice.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-740-paleoceanography-spring-2008/6455101439184f9d79228f5b35b3b8db_problemset1.pdf
 file_type: application/pdf
+parent_uid: 518bf30e-72e3-18b8-a83c-c63e22246196
 resourcetype: Document
 title: Problem Set 1
 uid: 64551014-3918-4f9d-7922-8f5b35b3b8db

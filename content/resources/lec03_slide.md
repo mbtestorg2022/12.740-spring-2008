@@ -9,6 +9,7 @@ description: Lecture presentation on oxygen isotope paleothermometry, cumulative
   paleomagnetic stratigraphy.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-740-paleoceanography-spring-2008/3f263afcc13cc3c0dbc7b37a2ba33003_lec03_slide.pdf
 file_type: application/pdf
+parent_uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 resourcetype: Document
 title: Oxygen isotope paleothermometry
 uid: 3f263afc-c13c-c3c0-dbc7-b37a2ba33003

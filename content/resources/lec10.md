@@ -8,6 +8,7 @@ description: Lecture notes on atmospheric carbon dioxide, ocean chemistry, and m
   change in mode of southern ocean deepwater formation, and oceanic Si reorganization.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-740-paleoceanography-spring-2008/44d3cbec1620faae3329d01d400afb76_lec10.pdf
 file_type: application/pdf
+parent_uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 resourcetype: Document
 title: Atmospheric Carbon Dioxide, Ocean Chemistry, and Mechanisms of Climate Change
 uid: 44d3cbec-1620-faae-3329-d01d400afb76

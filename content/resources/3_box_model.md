@@ -4,6 +4,7 @@ description: 'Handout with an introduction to ocean carbon system box models: th
   Toggweiler-Sarmiento 3-Box Model.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-740-paleoceanography-spring-2008/9c513047c551f0b212e3e2d81e5cf39c_3_box_model.pdf
 file_type: application/pdf
+parent_uid: 252db028-3f3b-6f05-9070-4ea2a732d560
 resourcetype: Document
 title: 'Introduction to Ocean Carbon System Box Models: The Toggweiler-Sarmiento 3-Box
   Model'

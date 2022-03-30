@@ -6,6 +6,7 @@ description: Lecture presentation on coastline evidence for sea level change, th
   versus relative sea level changes.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-740-paleoceanography-spring-2008/425c940364cab0b50dad0480e5267156_lec05_slide.pdf
 file_type: application/pdf
+parent_uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 resourcetype: Document
 title: Coastline evidence for sea level change
 uid: 425c9403-64ca-b0b5-0dad-0480e5267156

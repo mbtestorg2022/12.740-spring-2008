@@ -7,6 +7,7 @@ description: Lecture presentation on continental evidence for glacial climate. I
   aquifers, and marine-continental correlations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-740-paleoceanography-spring-2008/941a132cd1c5fd22734a8e6f7887430c_lec11_slide.pdf
 file_type: application/pdf
+parent_uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 resourcetype: Document
 title: Continental Evidence for Glacial Climate
 uid: 941a132c-d1c5-fd22-734a-8e6f7887430c

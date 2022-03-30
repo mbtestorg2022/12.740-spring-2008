@@ -5,6 +5,7 @@ description: Lecture presentation on ice core paleoclimatology, solutes and part
   acids.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-740-paleoceanography-spring-2008/17d1a45db2afc0290756927fda0d9b85_lec08b_slide.pdf
 file_type: application/pdf
+parent_uid: d409d56e-d0f2-7c39-c96f-3d8512960818
 resourcetype: Document
 title: 'Ice Core Paleoclimatology Ii: Solutes and Particulates'
 uid: 17d1a45d-b2af-c029-0756-927fda0d9b85
